@@ -2,14 +2,14 @@
 
 Employee SBA App
 
-SB
-1.5.10.RELEASE
+SB2
+2.1.2.RELEASE
 
 Consul
-1.3.1.RELEASE
+2.0.1.RELEASE
 
 SBA
-1.5.7
+2.1.2
 
 Java
 1.8
